@@ -1,2 +1,2 @@
-email :
-gitID :
+email :o2si_@naver.com
+gitID :O2SI7
